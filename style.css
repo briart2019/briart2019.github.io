@@ -72,3 +72,14 @@ a:visited {
   color: aliceblue;
 }
 
+@media (max-width: 600px) {
+  .mobile-br{
+    display:block;
+    }
+}
+
+@media (min-width: 601px) {
+  .mobile-br {
+    display:none;
+    }
+}
