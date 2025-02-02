@@ -76,6 +76,14 @@ a:visited {
   .mobile-br{
     display:block;
     }
+
+button {
+      /*95.105*/
+      width: 95%;
+    }
+    input {
+      width: 90%;
+    }
 }
 
 @media (min-width: 601px) {
